@@ -5,7 +5,7 @@ To use this plugin you need to have an account at https://raiwire.com
 
 Raiwire is still in beta. Contact me at the RaiBlocks discord channel @c-line for more information.
 
-#Installation
+# Installation
 1. Create an account at https://raiwire.com
 2. Create a Store and fill out the information
 3. Install the plugin in your woocommerce store and activate it
