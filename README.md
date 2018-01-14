@@ -12,3 +12,38 @@ Raiwire is still in beta. Contact me at the RaiBlocks discord channel @c-line fo
 4. Go to Woocommerce -> Settings -> Checkout and find Raiwire in the Checkout options in the top
 5. Insert your Merchant number (Store Id from raiwire.com) and insert your Secret from raiwire.com
 6. You are now ready to accept Raiblocks!
+
+# Currencies
+Raiwire accepts to following currencies, by converting it to XRB using the current price from coinmarketcap:
+
+AUD,
+BRL,
+CAD,
+CHF,
+CLP,
+CNY,
+CZK,
+DKK,
+EUR,
+GBP,
+HKD,
+HUF,
+IDR,
+ILS,
+INR,
+JPY,
+KRW,
+MXN,
+MYR,
+NOK,
+NZD,
+PHP,
+PKR,
+PLN,
+RUB,
+SEK,
+SGD,
+THB,
+TRY,
+TWD,
+ZAR
